@@ -2,7 +2,7 @@ IPL Dataset Analysis
 
 This project involves detailed data analysis of the Indian Premier League (IPL) using Python. The dataset includes match and player statistics which are used to derive meaningful insights using data wrangling, visualization, and exploratory analysis techniques.
 
-📁 Dataset
+📁 Dataset (IPL Dataset)
 
 The dataset contains historical IPL data including:
 - Match information
