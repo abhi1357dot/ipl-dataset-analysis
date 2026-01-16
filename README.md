@@ -26,10 +26,4 @@ The dataset contains historical IPL data including:
 - What is the decision of the team after winning the toss
 - Most Man of the match won by the players
 - Which is the most successful team in the IPL
-- Which Stedium has hosted maximum no of IPL Matches
-
-
-
-
-
-
+- Which Stadium has hosted maximum no of IPL Matches
